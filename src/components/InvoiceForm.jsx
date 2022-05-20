@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { uid } from "uid";
 import InvoiceItem from "./InvoiceItem";
-import InvoiceModal from "./InvoiceModal";
+
 import incrementString from "../helpers/incrementString";
 
 const InvoiceForm = () => {
